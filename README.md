@@ -1,6 +1,6 @@
 # CSS-and-Bootstrap
 
-This is my professional developer portfolio, and the first website I created using Bootstrap.
+This is my professional developer portfolio, and the first website I created using Bootstrap. Please feel free to view my deployed portfolio [here](https://hhh-603.github.io/CSS-and-Bootstrap/).
 
 I created this portfolio to showcase my biography, include several photos of myself with friends and family, and a contact page where people can provide their name, email, and a message for me to look at.
 
